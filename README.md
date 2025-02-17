@@ -18,7 +18,6 @@ I'm a passionate developer with a love for technology, coding, and continuous le
 
 ## 📈 GitHub Stats
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvaomaisti&show_icons=true&theme=radical)
-![Total Commits](https://camo.githubusercontent.com/a8097d59a47df1051759c794ce80667719ad37161eb6138cd7b9a20d05990eaa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d67616c76616f6d61697374692673686f775f69636f6e733d74727565267468656d653d7261646963616c)
 
 ## 📫 How to Reach Me
 - **Email:** [galvaomaisti.gti@gmail.com](mailto:galvaomaisti.gti@gmail.com)
