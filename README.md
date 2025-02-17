@@ -51,7 +51,6 @@ Thanks for visiting my profile! 😊
 ![React](https://img.shields.io/badge/-React-blue)
 
 ## 🖥️Currently Focused on:
-![image](https://github.com/user-attachments/assets/c52ac080-592c-4b01-a06a-3557cdfe83c8)
 <dive>
 <i class="fa-brands fa-js"></i>
 <i class="fab fa-html5"></i> 
@@ -60,11 +59,9 @@ Thanks for visiting my profile! 😊
 <i class="fa-brands fa-node"></i>
 </div>
 
-<Icon path={mdiLanguageHtml5} size={1} />
-![image](https://github.com/user-attachments/assets/894f64f0-4f2c-4139-8926-de38179eba17)
-##You find me here:
+##😊You find me here:
 
 <a hrf="https://www.linkedin.com/in/pedro-galvao-a6b583234/">
   <img src="[./img/wid-coverang-1.png" alt="wid-coverang-1-logo" class="img-logo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)">
 </a>
-![Contribution Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=galvaomaisti&layout=compact)
+
