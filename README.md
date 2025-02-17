@@ -19,9 +19,6 @@ I'm a passionate developer with a love for technology, coding, and continuous le
 ## 📈 GitHub Stats
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvaomaisti&show_icons=true&theme=radical)
 
-## 🌱 Currently learning
-- Programming logic with JavaScript, Html and Css NodeJs and React technologies
-
 ## 📫 How to Reach Me
 - **Email:** [galvaomaisti.gti@gmail.com](mailto:galvaomaisti.gti@gmail.com)
 - **LinkedIn:** [Pedro's LinkedIn](https://www.linkedin.com/in/pedro-galvao-a6b583234/)
@@ -52,16 +49,17 @@ Thanks for visiting my profile! 😊
 
 ## 🖥️Currently Focused on:
 <dive>
-<i class="fa-brands fa-js"></i>
-<i class="fab fa-html5"></i> 
-<i class="fa-brands fa-css3-alt"></i>
-<i class="fa-brands fa-react"></i>
-<i class="fa-brands fa-node"></i>
+  
+          <img width="50" hight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          <img width="50" hight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          <img width="50" hight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          <img width="50" hight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          <img width="50" hight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
 
-##😊You find me here:
+##😊You find me at:
 
 <a hrf="https://www.linkedin.com/in/pedro-galvao-a6b583234/">
-  <img src="[./img/wid-coverang-1.png" alt="wid-coverang-1-logo" class="img-logo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
