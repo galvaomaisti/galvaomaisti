@@ -48,20 +48,18 @@ Thanks for visiting my profile! 😊
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue)
 
-
-
-<dive>
+<dive style="display: inline">
   
-          <img width="50" hight= '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          <img width="50" hight= '50'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-          <img width="50" hight= '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-          <img width="50" hight= '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-          <img width="50" hight= '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+          &nbsp;&nbsp;<img width= '50' hight= '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+          &nbsp;&nbsp; <img width= '50' hight= '50'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+          &nbsp;&nbsp;<img width= '50'hight= '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+          &nbsp;&nbsp;<img width= '50' hight= '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;
+          &nbsp;&nbsp;<img width= '50' hight= '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp;&nbsp;
 </div>
 
 ##😊You find me at:
 
-<a hrf="https://www.linkedin.com/in/pedro-galvao-a6b583234/">
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/pedro-galvao-a6b583234/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+</a>&nbsp;&nbsp;
 
