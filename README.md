@@ -43,10 +43,6 @@ I love playing the guitar and have a passion for music production.
 Thanks for visiting my profile! 😊
 
 ## 🖥️Currently Focused on:
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue)
 
 <dive style="display: inline">
   
@@ -56,6 +52,7 @@ Thanks for visiting my profile! 😊
           &nbsp;&nbsp;<img width= '50' hight= '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;
           &nbsp;&nbsp;<img width= '50' hight= '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp;&nbsp;
 </div>
+
 
 ##😊You find me at:
 
