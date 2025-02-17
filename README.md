@@ -18,6 +18,7 @@ I'm a passionate developer with a love for technology, coding, and continuous le
 
 ## 📈 GitHub Stats
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvaomaisti&show_icons=true&theme=radical)
+![Total Commits](https://camo.githubusercontent.com/a8097d59a47df1051759c794ce80667719ad37161eb6138cd7b9a20d05990eaa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d67616c76616f6d61697374692673686f775f69636f6e733d74727565267468656d653d7261646963616c)
 
 ## 📫 How to Reach Me
 - **Email:** [galvaomaisti.gti@gmail.com](mailto:galvaomaisti.gti@gmail.com)
@@ -32,9 +33,9 @@ I'm a passionate developer with a love for technology, coding, and continuous le
 ## 🔭 Projects
 Here are a few projects I've been working on:
 
-- **Project 1:** [Awesome Project](https://github.com/galvaomaisti/awesome-project) - A web application built with React and Node.js.
-- **Project 2:** [Cool App](https://github.com/galvaomaisti/cool-app) - A mobile app developed using React Native.
-- **Project 3:** [Machine Learning Model](https://github.com/galvaomaisti/ml-model) - A machine learning model for predicting housing prices.
+- **Project 1:** [Instagram clone](https://github.com/galvaomaisti/Clone-Instagram) - A web application built with Html and Css.
+- **Project 2:** [Mario Online Game Project](https://github.com/galvaomaisti/GameMarioJS) - A web application built with Html and Css and JavaScript.
+- **Project 3:** [Thematic website for Companies](https://github.com/galvaomaisti/Thematic-website-for-Companies.git) - A web application built with Html and Css and JavaScript.
 
 Feel free to check out my repositories and contribute if you'd like!
 
