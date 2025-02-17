@@ -19,10 +19,8 @@ I'm a passionate developer with a love for technology, coding, and continuous le
 ## 📈 GitHub Stats
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvaomaisti&show_icons=true&theme=radical)
 
-## 🌱 Currently Learning
-- Advanced Machine Learning Algorithms
-- Cloud Architecture and Infrastructure
-- TypeScript
+## 🌱 Currently learning
+- Programming logic with JavaScript, Html and Css NodeJs and React technologies
 
 ## 📫 How to Reach Me
 - **Email:** [galvaomaisti.gti@gmail.com](mailto:galvaomaisti.gti@gmail.com)
@@ -31,8 +29,7 @@ I'm a passionate developer with a love for technology, coding, and continuous le
 
 ## 💬 Languages
 - Portuguese (Native)
-- English (Fluent)
-- Spanish (Intermediate)
+
 
 ## 🔭 Projects
 Here are a few projects I've been working on:
