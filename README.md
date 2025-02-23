@@ -43,7 +43,7 @@ I'm a passionate developer with a love for technology, coding, and continuous le
 
 ## 💬 Languages
 - 🇧🇷 **Portuguese** (Native)
-- 🇺🇸 **English** (Fluent)
+- 🇺🇸 **English** (Intermediate)
 - 🇪🇸 **Spanish** (Intermediate)
 
 ---
