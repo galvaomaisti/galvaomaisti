@@ -92,6 +92,6 @@ I love playing the guitar and have a passion for music production.
 Thanks for visiting my profile! 😊
 
 ## 😊 You can find me at:
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/pedro-galvao-a6b583234/">
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/pedro-galvao-dev/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>&nbsp;&nbsp;
