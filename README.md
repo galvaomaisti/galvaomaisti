@@ -1,4 +1,4 @@
-# Hi there, I'm Pedro de Souza Galvão! 👋
+# Hi there, I'm Pedro de Souza Galvão Junior! 👋
 
 I'm a passionate developer with a love for technology, coding, and continuous learning. Welcome to my GitHub profile!
 
