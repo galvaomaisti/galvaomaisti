@@ -12,7 +12,11 @@ Bem-vindo ao meu perfil no GitHub!
 - **Interesses:** Programação, Open Source, IA, Machine Learning, Desenvolvimento Web e Música  
 
 ---
+## 📂 Organização dos Meus Projetos
+Confira meu quadro de projetos no GitHub:  
+👉 [Meus Projetos](https://github.com/users/galvaomaisti/projects)
 
+---
 ## 🛠️ Tecnologias e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
