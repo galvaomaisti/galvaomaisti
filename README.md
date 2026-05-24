@@ -1,200 +1,166 @@
-# Olá, eu sou Pedro de Souza Galvão Junior! 👋
+<h1 align="center">
+  Pedro Galvão 🚀
+</h1>
 
-Sou um desenvolvedor apaixonado por tecnologia, programação e aprendizado contínuo.  
-Bem-vindo ao meu perfil no GitHub!  
+<h3 align="center">
+AI Builder • FullStack Developer • JavaScript Ecosystem
+</h3>
 
----
+<p align="center">
 
-## 🚀 Sobre Mim
-- **Nome:** Pedro de Souza Galvão  
-- **Localização:** Fazenda Rio Grande, Brasil  
-- **Ocupação:** Desenvolvedor de Software  
-- **Interesses:** Programação, Open Source, IA, Machine Learning, Desenvolvimento Web e Música  
+Building modern digital products with AI, automation and scalable web experiences.
 
----
-## 📂 Organização dos Meus Projetos
-Confira meu quadro de projetos no GitHub:  
-👉 [Meus Projetos](https://github.com/users/galvaomaisti/projects)
-
----
-## 🛠️ Tecnologias e Ferramentas
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+</p>
 
 ---
 
-## 📈 Estatísticas do GitHub
+# 👨‍💻 About Me
+
+```javascript
+const pedro = {
+  location: "Brazil 🇧🇷",
+  role: "FullStack Developer & AI Builder",
+  
+  focus: [
+    "Modern Web Applications",
+    "AI Automation",
+    "Frontend Architecture",
+    "Scalable UI/UX",
+    "Rapid Prototyping"
+  ],
+
+  stack: [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Vite"
+  ],
+
+  tools: [
+    "Cursor",
+    "Claude Code",
+    "ChatGPT",
+    "Bolt",
+    "GitHub"
+  ]
+}
+```
+
+---
+
+# ⚡ Tech Stack
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galvaomaisti&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Pedro">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galvaomaisti&theme=radical" alt="GitHub Streak">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,tailwind,vite,git,github,mysql,flutter" />
+
 </div>
 
 ---
 
-## 📫 Como me encontrar
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galvaomaisti.gti@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-galvao-a6b583234/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galvaomaisti)  
+# 🚀 Featured Projects
+
+## 🧠 Agente IA Prefeitura
+
+AI onboarding assistant focused on automating workflows and public service onboarding.
+
+### ⚙️ Stack
+
+* React
+* TypeScript
+* Tailwind CSS
+* Vite
+* Supabase
+* Claude Code
+* Bolt AI
+
+<img src="https://github.com/user-attachments/assets/fe5f4e09-5827-45ce-a62d-a07cfb563f47" width="100%" />
+
+🔗 https://prefeitura-ai-agent-j5th.bolt.host/
 
 ---
 
-## 💬 Idiomas
-- 🇧🇷 **Português** (Nativo)  
-- 🇺🇸 **Inglês** (Intermediário)  
-- 🇪🇸 **Espanhol** (Intermediário)  
+## 📊 DistribuiCRM
+
+Modern CRM platform with scalable frontend architecture and responsive UI.
+
+### ⚙️ Stack
+
+* React
+* TypeScript
+* Tailwind CSS
+* shadcn/ui
+* Vite
+
+<img src="https://github.com/user-attachments/assets/9baa77b1-6083-4a96-980c-50914ce3092f" width="100%" />
+
+🔗 https://brandify-drink-hub.netlify.app/auth
 
 ---
 
-## 🔭 Projetos em Destaque
-Aqui estão alguns dos meus projetos principais:  
+## 🍔 Cardápio Online 2025
 
-🎮 **Jogo do Mario Online**  
-Aplicação web desenvolvida com HTML, CSS e JavaScript.  
-[🔗 Repositório](https://github.com/galvaomaisti/GameMarioJS)  
-![Game Preview](https://github-readme-stats.vercel.app/api/pin/?username=galvaomaisti&repo=GameMarioJS&theme=radical)  
+Digital menu platform focused on usability and fast restaurant management.
 
-📸 **Clone do Instagram**  
-Aplicação web desenvolvida com HTML e CSS.  
-[🔗 Repositório](https://github.com/galvaomaisti/Clone-Instagram)  
-![Project Preview](https://github-readme-stats.vercel.app/api/pin/?username=galvaomaisti&repo=Clone-Instagram&theme=radical)  
+### ⚙️ Stack
 
-💼 **Site Temático para Empresas**  
-Aplicação web dinâmica para sites empresariais.  
-[🔗 Repositório](https://github.com/galvaomaisti/Thematic-website-for-Companies)  
-![Website Preview](https://github-readme-stats.vercel.app/api/pin/?username=galvaomaisti&repo=Thematic-website-for-Companies&theme=radical)  
+* HTML
+* CSS
+* JavaScript
+
+<img src="https://github.com/user-attachments/assets/9c66ddef-7639-4702-aeac-ea8663a300e6" width="100%" />
+
+🔗 https://cardapio-online2025.netlify.app/
 
 ---
 
-## 🎖️ Conquistas
-- 🏆 Concluí mais de 100 desafios de programação  
-- 🌍 Contribuí para projetos Open Source  
-- 🎓 Finalizei certificações em React e Node.js  
+# 📈 GitHub Stats
 
----
-
-## 🎸 Curiosidade
-Adoro tocar violão e tenho paixão por produção musical.  
-
----
-
-## 🖥️ Atualmente focado em
-<div style="display: inline">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%23000000" alt="React">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">&nbsp;&nbsp;
-</div>
-
----
-
-Obrigado por visitar meu perfil! 😊  
-
-## 😊 Você pode me encontrar em:
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/pedro-galvao-dev/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>&nbsp;&nbsp;  
-____________________________________________________________________________________________________________________________________
-
-# Hi there, I'm Pedro de Souza Galvão Junior! 👋
-
-I'm a passionate developer with a love for technology, coding, and continuous learning. Welcome to my GitHub profile!
-
----
-
-## 🚀 About Me
-- **Name:** Pedro de Souza Galvão
-- **Location:** Fazenda Rio Grande, Brazil
-- **Occupation:** Software Developer
-- **Interests:** Coding, Open Source, AI, Machine Learning, Web Development, and Music
-
----
-
-## 🛠️ Technologies & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-
-
----
-
-## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galvaomaisti&show_icons=true&theme=radical" alt="Pedro's GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galvaomaisti&theme=radical" alt="GitHub Streak">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=galvaomaisti&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galvaomaisti&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-## 📫 How to Reach Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galvaomaisti.gti@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-galvao-a6b583234/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galvaomaisti)
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pedro-galvao-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/galvaomaisti">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://webfluencia.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 💬 Languages
-- 🇧🇷 **Portuguese** (Native)
-- 🇺🇸 **English** (Intermediate)
-- 🇪🇸 **Spanish** (Intermediate)
+# ⚡ Current Focus
+
+* AI-Powered Development
+* FullStack Applications
+* Automation Workflows
+* Modern UI/UX
+* SaaS Interfaces
+* Scalable Frontend Architecture
 
 ---
 
-## 🔭 Featured Projects
-Here are some of my highlighted projects:
+<p align="center">
 
-🎮 **Mario Online Game**  
-A web application built with HTML, CSS, and JavaScript.  
-[🔗 Repository](https://github.com/galvaomaisti/GameMarioJS)  
-![Game Preview](https://github-readme-stats.vercel.app/api/pin/?username=galvaomaisti&repo=GameMarioJS&theme=radical)  
+Available for freelance & remote opportunities 🚀
 
-📸 **Instagram Clone**  
-A web application built with HTML and CSS.  
-[🔗 Repository](https://github.com/galvaomaisti/Clone-Instagram)  
-![Project Preview](https://github-readme-stats.vercel.app/api/pin/?username=galvaomaisti&repo=Clone-Instagram&theme=radical)  
-
-💼 **Thematic Website for Companies**  
-A dynamic web application for business websites.  
-[🔗 Repository](https://github.com/galvaomaisti/Thematic-website-for-Companies)  
-![Website Preview](https://github-readme-stats.vercel.app/api/pin/?username=galvaomaisti&repo=Thematic-website-for-Companies&theme=radical)
-
----
-
-## 🎖️ Achievements
-- 🏆 Completed 100+ coding challenges
-- 🌍 Contributed to Open Source projects
-- 🎓 Completed React and Node.js certifications
-
----
-
-## 🎸 Fun Fact
-I love playing the guitar and have a passion for music production. 
-
----
-
-## 🖥️ Currently Focused on
-<div style="display: inline">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%23000000" alt="React">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">&nbsp;&nbsp;
-</div>
-
----
-
-Thanks for visiting my profile! 😊
-
-## 😊 You can find me at:
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/pedro-galvao-dev/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>&nbsp;&nbsp;
+</p>
