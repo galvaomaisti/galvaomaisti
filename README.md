@@ -164,4 +164,4 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=galvaomaisti&theme=g
 Available for freelance & remote opportunities 🚀
 
 </p>
-theme=github_dark
+
